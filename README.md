@@ -1,14 +1,11 @@
 # Dataset Description
-
 The dataset requires you to make predictions on the price of a flight ticket given a set of features. The features are listed below.
 
 ## Files
-
 * train.csv - The training set which contains the features and the target
 * test.csv - The test set for which the target column is hidden
 
 ## Column Description
-
 * airline: Name of the Airline company
 * flight: Information about flight code
 * source: City from which the flight takes off
